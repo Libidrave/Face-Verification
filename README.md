@@ -21,8 +21,8 @@ This project is really inspired from this repository [DeepFace](https://github.c
 ![cartoon](https://github.com/user-attachments/assets/c504b284-72dd-4a71-9f20-430a7dd25b44)
 
 ## if image was blurred
-![blurred](https://github.com/user-attachments/assets/36a0b826-fd40-4386-a3f3-4576ba1f467a)
+![blurred](https://github.com/user-attachments/assets/ba876976-3979-4ad8-bcc6-1226e6d7d938)
 
-## DeepFace Verification with the same cropped and verification model -+ 19second response
+## DeepFace Verification with the same cropped and verification model -+ 19 second response
 ![DeepFace](https://github.com/user-attachments/assets/9967ae28-98bc-4b18-98c3-08d3f9b3d27c)
 
