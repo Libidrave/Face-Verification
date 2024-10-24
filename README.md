@@ -12,3 +12,17 @@ This project is really inspired from this repository [DeepFace](https://github.c
 3. The second **BlurOrBokeh** model trying to classifying yout selfie photo, if its not a blurred image, then
 4. All the images you upload, will be cropped to match the face detected by the face detector model.
 5. The last step is, images that have been cropped will be paired and their similarity is calculated using cosine similarity.
+
+# Testing Result
+## if image was uploaded properly -+ 700ms response
+![verify](https://github.com/user-attachments/assets/5f986b54-7b3a-42b0-9423-666f2ab548ed)
+
+## if image was ai generated image
+![cartoon](https://github.com/user-attachments/assets/c504b284-72dd-4a71-9f20-430a7dd25b44)
+
+## if image was blurred
+![blurred](https://github.com/user-attachments/assets/36a0b826-fd40-4386-a3f3-4576ba1f467a)
+
+## DeepFace Verification with the same cropped and verification model -+ 19second response
+![DeepFace](https://github.com/user-attachments/assets/9967ae28-98bc-4b18-98c3-08d3f9b3d27c)
+
