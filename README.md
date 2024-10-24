@@ -6,8 +6,7 @@ Hello Everyone, this repository is used to store any file that related to this p
 2. Library : you can install all the library using pip in your terminal `pip install -r requirements.txt`
 
 # Project Description
-This project is really inspired from this repository [DeepFace](https://github.com/serengil/deepface) and i added [CartoonOrNot Classifier](https://github.com/Libidrave/CartoonOrNot) and [BlurOrBokeh Classifier](https://github.com/Libidrave/BlurOrBokeh) \
-to make sure the input image is not ai generated and not a blurred image. So how does this project work?
+This project is really inspired from this repository [DeepFace](https://github.com/serengil/deepface) and i added [CartoonOrNot Classifier](https://github.com/Libidrave/CartoonOrNot) and [BlurOrBokeh Classifier](https://github.com/Libidrave/BlurOrBokeh) to make sure the input image is not ai generated and not a blurred image. So how does this project work?
 1. You need to upload 2 images, the first one is your ID card (KTP) and the second one is your selfie photo.
 2. The first **CartoonOrNot** model trying to classifying your selfie photo, if its not an ai generated image, then
 3. The second **BlurOrBokeh** model trying to classifying yout selfie photo, if its not a blurred image, then
