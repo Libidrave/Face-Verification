@@ -15,9 +15,9 @@ This project is really inspired from this repository [DeepFace](https://github.c
 
 # Testing Result
 ## Testing Device
-CPU: AMD Ryzen 3 3200U
-GPU: iGPU Radeon rx Vega 3
-RAM: 12GB DDR4
+CPU: AMD Ryzen 3 3200U\n
+GPU: iGPU Radeon rx Vega 3\n
+RAM: 12GB DDR4\n
 
 ## if image was uploaded properly -+ 700ms response
 ![verify](https://github.com/user-attachments/assets/5f986b54-7b3a-42b0-9423-666f2ab548ed)
