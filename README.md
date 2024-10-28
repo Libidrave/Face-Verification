@@ -14,6 +14,11 @@ This project is really inspired from this repository [DeepFace](https://github.c
 5. The last step is, images that have been cropped will be paired and their similarity is calculated using cosine similarity.
 
 # Testing Result
+## Testing Device
+CPU: AMD Ryzen 3 3200U
+GPU: iGPU Radeon rx Vega 3
+RAM: 12GB DDR4
+
 ## if image was uploaded properly -+ 700ms response
 ![verify](https://github.com/user-attachments/assets/5f986b54-7b3a-42b0-9423-666f2ab548ed)
 
