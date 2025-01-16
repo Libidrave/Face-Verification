@@ -12,7 +12,6 @@ def crop(img_path : str, filename : str):
     Returns:
         str: Path to the cropped image file.
     """
-    # Your implementation here
     res_path = os.path.join("./face", filename)
     
     filename = filename.rsplit(".")[0].replace("/", "")
